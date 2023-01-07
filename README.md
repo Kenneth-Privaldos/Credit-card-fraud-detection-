@@ -3,7 +3,7 @@
 # Introduction
 Credit card fraud is a serious problem that can result in financial losses and damage to a person's credit rating. In this project, we will build a machine learning model to detect fraudulent credit card transactions in real-time.
 
-We will use the XGBoost (eXtreme Gradient Boosting) algorithm, which is a popular and effective choice for a wide range of classification tasks. XGBoost is an implementation of gradient boosting that is designed to be highly efficient and scalable.
+We will use the Logistic Regresion and XGBoost (eXtreme Gradient Boosting) algorithms, which are a popular and effective choice for a wide range of classification tasks. XGBoost is an implementation of gradient boosting that is designed to be highly efficient and scalable while Logistic Regression is common used in Binary classification. We'll comapare the two algorithms and choose which one is more suited in this application.
 
 
 # Data
